@@ -4,3 +4,5 @@ Predict Crypto Prices using RSI &amp; MACD Indicators integrated with Linear Reg
 
 ## Please be aware while using this script it doesn't analyze the news or economic activites which is a main indicator in stock prices and think twice before using this in real-trading to avoid losing money.
 
+One file is very enough to handle this it's a simple script.
+Open Source 🔓 use it your own but kindly avoid using it for commercial uses.
